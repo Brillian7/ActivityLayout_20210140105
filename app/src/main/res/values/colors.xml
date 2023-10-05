@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#FFD700</color>
+    <color name="blue_darker">#000080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="grey">#808080</color>
+    <color name="olive_green">#808000</color>
+    <color name="ferrari_red">#FF0000</color>
+    <color name="toscaGreen">#00A78B</color>
+    <color name="military_green">#4B0082</color>
+    <color name="greenDark">#006400</color>
+
+</resources>
